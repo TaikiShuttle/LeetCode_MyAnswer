@@ -32,3 +32,8 @@ Example 3:
 
 Input: s = "A", numRows = 1
 Output: "A"
+
+### My answer
+I do not see much meaning from this problem. It is just a problem that test your skills on manage time complexity and space usage. However, my answer doesn't have both of them.
+
+My answer is just appending the charaters row by row.
